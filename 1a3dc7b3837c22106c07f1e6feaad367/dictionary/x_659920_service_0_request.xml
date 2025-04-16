@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="9a3dc7b3837c22106c07f1e6feaad37e" extends="sn_creatorstudio_task" label="ServiceNow_GIT Request" max_length="40" name="x_659920_service_0_request" type="collection"/>
+</database>
